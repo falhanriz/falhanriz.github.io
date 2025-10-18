@@ -1,13 +1,13 @@
 const projectGalleries = {
   AIS: [
-    "images/AIS1.jpg",
+    "images/AIS1.JPG",
     "images/AIS2.jpg",
-    "images/AIS3.jpg",
+    "images/AIS3.JPG",
     "images/AIS4.png",
     "images/AIS5.png",
   ],
   TA: [
-    "images/TA-dashboard.png",
+    "images/TA-dashboard.jpg",
     "images/TA1.jpeg",
     "images/TA2.jpeg",
     "images/TA3.jpeg",
