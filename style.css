@@ -355,6 +355,11 @@ section h2 {
   line-height: 1.6;
 }
 
+.experience-item li {
+  color: var(--text-light);
+  line-height: 1.6;
+}
+
 /* Contact Section */
 .contact-content {
   display: grid;
